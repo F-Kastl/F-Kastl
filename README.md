@@ -1,16 +1,13 @@
-## Hi there 👋
+# Frank
 
-<!--
-**F-Kastl/F-Kastl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Private projects, scripts and experiments.
 
-Here are some ideas to get you started:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Psh](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-Engineering-blue)
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![Wow](https://img.shields.io/badge/WoW-Addons-FFD100)
+
+
